@@ -1,5 +1,5 @@
 # Hospital-Mangement-System
-Require a good operational Hospital Management System!!!. 
+Do you Require a good operational Hospital Management System!!!. 
 
 -> Initially you need to install Mysql command line client for working with the database.
 -> Then go ahead with the creation of tables required such as patient, doctor, appointment.
